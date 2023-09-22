@@ -14,9 +14,22 @@ Markdown es un lenguaje de marcado ligero que se utiliza para formatear texto de
 
 ```markdown
 // Esto es un ejemplo de código en Markdown
-function saludar() {
-console.log("¡Hola Mundo!");
-}
+# Título Principal
+
+## Subtítulo
+
+- Lista de elementos
+- Otro elemento
+
+**Texto en negrita**
+
+*Texto en cursiva*
+
+[Enlace a una página web](https://www.ejemplo.com)
+
+> Esto es una cita.
+
+
 ```
 
 ## Comparación
